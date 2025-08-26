@@ -18,12 +18,15 @@
 
 ---
 
-## 👩‍💻 **About Me**
-- Pursuing **B.Tech in Computer Science and Engineering**  
-- Passionate about **Full Stack Development & DSA**  
-- Skilled in **C++, HTML, CSS, JavaScript, React, Node.js**  
-- Love building **real-time projects** and exploring **new tech**  
-- Looking for **internship/full-time opportunities**  
+## 👨‍💻 About Me
+
+🎓 I'm currently pursuing **B.Tech in Computer Science and Engineering** at **Dr. A. P. J. Abdul Kalam Technical University (2022–2026)**.
+
+💻 I’m passionate about **Software Development and Full Stack Web Development**, with hands-on experience in **React.js, Node.js, Express.js, and MongoDB**.
+
+🚀 I enjoy **building scalable, user-friendly applications**, solving **real-world problems**, and continuously exploring **new technologies**.
+
+🏆 Secured **2nd Rank** in a college-level coding competition and participated in **Smart India Hackathon (SIH-2024)**, **Flipkart GRID 6.0**, and **Amazon ML Challenge**.
 
 ---
 
@@ -37,27 +40,37 @@
 
 ---
 
-## 🚀 **Projects**
+## 📂 **Projects**
 
-### 1) **Social Feed with Real-Time Updates**
+### 🚀) **Social Feed with Real-Time Updates**
 - Tech: HTML, CSS, JavaScript, Socket.io  
 - **[Live Demo](https://infinite-scroll-social-feed-with-re-eta.vercel.app)** | [Repo](https://github.com/ManuSharma82/infinite-scroll-social-feed)
 
-### 2) **Voice Guard: Azure-Powered Women Safety System**
+### 🚀) **Voice Guard: Azure-Powered Women Safety System**
 - Web app for women safety using Azure APIs  
 - **[Live Demo](https://my-portfolio1-flame-phi.vercel.app)** (Coming Soon) | Repo (Private)
 
-### 3) **Portfolio Website**
+### 🚀) **Portfolio Website**
 - Built with HTML, CSS, JS  
 - **[Live Demo](https://my-portfolio1-flame-phi.vercel.app)** | [Repo](https://github.com/ManuSharma82)
 
 ---
 
-## 📜 **Certifications**
-- Data Science & ML – GeeksforGeeks (2025)  
-- DSA with C++ & System Design – Coding Blocks (2024)  
-- C & C++ Programming – IIT Kanpur (2024)  
-- Full Stack Web Dev Workshop – SoftPro India (2025)  
+## 📜 Certifications  
+
+- [Build a Business Architecture using AWS Organization and AWS S3 Basics – Coursera](https://drive.google.com/file/d/1a0FF7BknbNlaNUxbQ01XsomLoHmoeejC/view?usp=drive_link)  
+- [C Programming – IIT Bombay](https://drive.google.com/file/d/1QSBN5wbPwUohjCZV_sSdFCL8wyo47i8A/view)  
+- [Data Structures & Algorithms using C++ with System Design – Data Flow](https://drive.google.com/file/d/1AkGfwKOLUW3PXvxAI6rKU12tyZ3YaxRZ/view?usp=sharing)  
+- [Web Development – Data Flow](https://drive.google.com/file/d/1vEiSD6mkOEAAV4hxwAJ1NovSeVPSP7Sl/view?usp=drive_link)  
+- [Smart India Hackathon (SIH) – Participation Certificate](https://drive.google.com/file/d/1rRUiaodLluc0z-icqHAwe5O2wfFJls7A/view?usp=sharing)  
+- [Flipkart GRID 6.0 – Participation Certificate](https://drive.google.com/file/d/1A_jmB5B1X4Fnc2nlkj7NVDF-JWLgCMVd/view?usp=drive_link)  
+- [Amazon ML Challenge – Participation Certificate](https://drive.google.com/file/d/1WzZHy7ovb0aFfH41x-QXqXHJ28nycQ0e/view?usp=drive_link)
+
+---
+
+## 🏅 Achievements  
+- Secured **2nd Rank** in a college-level coding competition (2025)  
+- Participant: **Smart India Hackathon (SIH 2024)**, **Flipkart GRID 6.0**, **Amazon ML Challenge**  
 
 ---
 
@@ -84,10 +97,7 @@
 ![snake gif](https://github.com/ManuSharma82/ManuSharma82/blob/output/github-contribution-grid-snake.svg)
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManuSharma82/ManuSharma82/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ManuSharma82/ManuSharma82/output/github-contribution-grid-snake.svg" />
-</picture>
+
 
 ## 🤝 **Let's Collaborate**
 DM me for collaboration, hackathons, or internship opportunities!
