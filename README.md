@@ -80,15 +80,14 @@
 
 ---
 
-## 📈 **GitHub Stats & Activity**
+## 📊 GitHub Stats & Streak
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManuSharma82&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ManuSharma82&theme=radical&hide_border=true)
 
-![Manu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuSharma82&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ManuSharma82&theme=radical&hide_border=true) 
+## 📈 Contribution Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ManuSharma82&theme=react-dark)
 
----
-
-## 🏅 **GitHub Trophies**
+## 🏅 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=ManuSharma82&theme=radical&no-frame=true&row=1&column=7)
 
 ---
