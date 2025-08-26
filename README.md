@@ -83,7 +83,7 @@
 ## 📈 **GitHub Stats & Activity**
 
 ![Manu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuSharma82&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=ManuSharma82&theme=radical&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ManuSharma82&theme=radical&hide_border=true) 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ManuSharma82&theme=react-dark)
 
 ---
